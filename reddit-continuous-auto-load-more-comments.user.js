@@ -2,7 +2,8 @@
 // @name        reddit continuous auto load more comments
 // @namespace   reddit
 // @include     https://www.reddit.com/r/*/comments/*
-// @version     1.1
+// @include     https://old.reddit.com/r/*/comments/*
+// @version     1.2
 // @grant       none
 // ==/UserScript==
 
